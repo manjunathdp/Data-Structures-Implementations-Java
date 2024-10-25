@@ -5,7 +5,8 @@ This repository contains Java implementations of fundamental data structures. Ea
 
 ## Homepage Interface
 
-![Homepage](img/homepage.png)
+<img src="img/homepage.png" alt="Home Page" width="300" height="200">
+
 
 ## Array Interface
 
