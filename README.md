@@ -1,31 +1,35 @@
 # Java Data Structures Implementations
 
 This repository contains Java implementations of fundamental data structures. Each data structure is implemented in a dedicated Java class with methods to perform standard operations. This project serves as a practical guide for understanding and using data structures in Java.
-
+<div style="text-align: center;">
 ## Homepage Interface
 
 ![Homepage](img/homepage.png)
 
 ## Array Interface
 
-![Array](img/array.png)
+<img src="img/array.png" alt="Array" width="300" height="200">
 
 ## Stack Interface
 
-![Stack](img/stack.png)
+<img src="img/stack.png" alt="Stack" width="300" height="200">
+
 
 ## Queue Interface
 
-![Queue](img/queue.png)
+<img src="img/queue.png" alt="Queue" width="300" height="200">
+
 
 ## Linked List Interface
 
-![Linked List](img/llist.png)
+<img src="img/llist.png" alt="Linked List" width="300" height="200">
+
 
 ## Circular Queue Interface
 
-![Circular Queue](img/cqueue.png)
+<img src="img/cqueue.png" alt="Circular Queue" width="300" height="200">
 
+</div>
 ## Data Structures Included
 
 ### Array (`array.java`)
