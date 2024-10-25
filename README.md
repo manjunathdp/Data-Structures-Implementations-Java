@@ -2,6 +2,7 @@
 
 This repository contains Java implementations of fundamental data structures. Each data structure is implemented in a dedicated Java class with methods to perform standard operations. This project serves as a practical guide for understanding and using data structures in Java.
 <div style="text-align: center;">
+
 ## Homepage Interface
 
 ![Homepage](img/homepage.png)
