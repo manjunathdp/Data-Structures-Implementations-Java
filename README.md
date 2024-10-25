@@ -5,31 +5,31 @@ This repository contains Java implementations of fundamental data structures. Ea
 
 ## Homepage Interface
 
-<img src="img/homepage.png" alt="Home Page" width="500" height="300">
+<img src="img/homepage.png" alt="Home Page" width="500" height="350">
 
 
 ## Array Interface
 
-<img src="img/array.png" alt="Array" width="500" height="300">
+<img src="img/array.png" alt="Array" width="500" height="350">
 
 ## Stack Interface
 
-<img src="img/stack.png" alt="Stack" width="500" height="300">
+<img src="img/stack.png" alt="Stack" width="500" height="350">
 
 
 ## Queue Interface
 
-<img src="img/queue.png" alt="Queue" width="500" height="300">
+<img src="img/queue.png" alt="Queue" width="500" height="350">
 
 
 ## Linked List Interface
 
-<img src="img/llist.png" alt="Linked List" width="500" height="300">
+<img src="img/llist.png" alt="Linked List" width="500" height="350">
 
 
 ## Circular Queue Interface
 
-<img src="img/cqueue.png" alt="Circular Queue" width="500" height="300">
+<img src="img/cqueue.png" alt="Circular Queue" width="500" height="350">
 
 </div>
 ## Data Structures Included
